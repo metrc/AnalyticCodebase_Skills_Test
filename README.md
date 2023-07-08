@@ -1,8 +1,6 @@
 # AnalyticCodebase
 ReportingSystem
 
-![Build Status Badge main](https://github.com/metrc/AnalyticCodebase/actions/workflows/build-main-releases.yml/badge.svg)
-
 ## Installation
 
 ```R
