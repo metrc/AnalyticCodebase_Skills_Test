@@ -37,7 +37,7 @@ In this task, your goal is to create a function that adds a column named complic
 
 3. Copy the 'weight_bearing_data.feather' file into the 'skills_test/weight bearing-cached_data' folder. Do NOT commit this file to the repository.
 
-4. Create an R function pasteur_complications_number() that calculates the number of complications for each study_id. This function should be written from scratch and integrated at the suitable spot within a .R file in the R folder. Refer to the provided code template for details.
+4. Create an R function pasteur_complications_number() that calculates the number of complications for each study_id. This function should be written from scratch and integrated at the suitable spot within a .R file in the R folder.
 
 5. Save your visualization code in the 'skills test' directory. Generate one static and one interactive visualization using any subset of data you prefer.
 
