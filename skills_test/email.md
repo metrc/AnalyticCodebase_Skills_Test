@@ -7,7 +7,7 @@ We are excited to inform you that have advanced to our next level of our applica
 We would like you to complete a task to showcase your data analysis skills. This task involves working with our internal package, AnalyticCodebase, and generating visualizations from an existing dataset.
 
 Please clone our repository at this link
-[Link]
+https://github.com/metrc/AnalyticCodebase_Skills_Test
 and set your working directory to the project root. You will find detailed instructions and specific task details within the README.md file in the root directory.
 
 This task is designed to test your understanding of the R programming language, data analysis skills, and your ability to interact with our codebase. It's also meant to provide insights into your problem-solving approach and your ability to work independently.
