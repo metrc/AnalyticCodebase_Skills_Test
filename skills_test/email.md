@@ -1,4 +1,4 @@
-Subject: Assignment for Data Analysis Skill Test
+Subject: Assignment for METRC Skill Test
 
 Dear [Applicant],
 
