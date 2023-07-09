@@ -1,6 +1,6 @@
 Subject: Assignment for METRC Skill Test
 
-Dear [Applicant],
+Hi [Applicant],
 
 We are excited to inform you that have advanced to our next level of our application process for a position at METRC within the Johns Hopkins School of Public Health.
 
@@ -26,5 +26,5 @@ Please also fill out the following Google Form. https://docs.google.com/forms/d/
 
 We look forward to reviewing your work! Please let us know when we can expect your skills test to be complete and when you plan on starting by email (we understand you may have other responsibilities so feel free to take a week or so if you don't have much free time). You can expect it to only take 2-3 hours once you get the environment set up. If it take more time that is ok, we will not be factoring time into our assessment. (We will only respond to during regular business hours so you may want to factor that into your work flow).
 
-Best regards,
+Best,
 [Your Name]
