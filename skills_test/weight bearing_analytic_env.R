@@ -1,7 +1,7 @@
 
 # TODO make sure to set your working directory to this files location
 
-Sys.setenv(GITHUB_PAT='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')
+Sys.setenv(GITHUB_PAT='TODO ADD GITHUB PAT')
 Sys.setenv(R_REMOTES_NO_ERRORS_FROM_WARNINGS=TRUE)
 
 devtools::install_github("metrc/AnalyticSystem@*release", upgrade="never", dependencies="Depends")
