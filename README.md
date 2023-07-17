@@ -33,13 +33,13 @@ In this task, your goal is to create a function that adds a column named complic
 
 2. Run the script weight_bearing_analytic_env.R. This will install the necessary packages and set up the Weight Bearing project.
 
-3. Copy the 'weight_bearing_data.feather' file into the 'skills_test/weight bearing-cached_data' folder. Do NOT commit this file to the repository. Then run the weight bearing_analytic_env.R file with the added PAT from the email.
+3. Copy the 'weight_bearing_data.feather' file into the 'skills_test/weight bearing-cached_data' folder. Do NOT commit this file to the repository. Then run the weight bearing_analytic_env.R file with the added PAT from the email. Do NOT commit the token file to the repository (replace it with a TODO string)
 
 4. Create an R function pasteur_complications_number() that calculates the number of complications for each study_id. This function should be written from scratch and integrated at the suitable spot within a .R file in the R folder.
 
 5. Save your visualization code in the 'skills test' directory. Generate one static and one interactive visualization using any subset of data you prefer.
 
-6. Once your function is complete, ensure it runs smoothly when the 'weight_bearing_analytic_env.R' file is sourced.
+6. Once your function is complete, ensure it runs smoothly when the 'weight_bearing_analytic_env.R' file is sourced. Do NOT commit the token file to the repository (replace it with a TODO string)
 
 7. Update this README with a description of your process and decisions made.
 
