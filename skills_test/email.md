@@ -10,7 +10,7 @@ Please clone our repository at this link
 https://github.com/metrc/AnalyticCodebase_Skills_Test
 and set your working directory to the project root. You will find detailed instructions and specific task details within the README.md file in the root directory.
 
-The GitHub PAT you need is [PAT].
+The GitHub PAT you need is [PAT] Do NOT commit the token file to the repository (replace it with a TODO string before each of your commits).
 
 This task is designed to test your understanding of the R programming language, data analysis skills, and your ability to interact with our codebase. It's also meant to provide insights into your problem-solving approach and your ability to work independently.
 
